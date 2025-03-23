@@ -8,7 +8,7 @@ Automated moderation of user-generated content plays a critical role in fosterin
 
 The objective is to **maintain high performance across all demographic groups**, not just on average, and to **reduce bias** in toxicity predictions, particularly for comments referencing specific demographic groups.
 
-[project page](https://www.kaggle.com/competitions/toxic-comment-classification-dsba-2025/overview)
+[competition page](https://www.kaggle.com/competitions/toxic-comment-classification-dsba-2025/overview)
 
 [data](https://www.kaggle.com/competitions/toxic-comment-classification-dsba-2025/data)
 
