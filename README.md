@@ -17,7 +17,6 @@ The objective is to **maintain high performance across all demographic groups**,
 - Piangpim Chancharunee  
 - Ruxi He  
 - I-Hsun Lu
-- Chiao-Kai Qiang
 
 ## 📊 Dataset Overview
 
